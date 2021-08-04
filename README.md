@@ -9,4 +9,3 @@ un texto que diga: 'si es true la propiedad entrar'
 
 crear otro if donde consulte si la propiedad denegar del objeto options es igual a false,  de ser asi que imprimir un console log con 
 un texto que diga: 'si es false la propiedad denegar'
-
